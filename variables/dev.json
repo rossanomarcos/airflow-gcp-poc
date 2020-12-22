@@ -1,0 +1,5 @@
+{
+    "project": "rm-airflow-tutorial-demo",
+    "landing_bucket": "rm-logistics-landing-bucket-dev",
+    "backup_bucket": "rm-logistics-backup-bucket"
+}
