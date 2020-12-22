@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../airflow-gcp-poc/.idea/apache-airflow-course.iml" filepath="$PROJECT_DIR$/../../airflow-gcp-poc/.idea/apache-airflow-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../airflow-gcp-poc/.idea/airflow-gcp-poc.iml" filepath="$PROJECT_DIR$/../airflow-gcp-poc/.idea/airflow-gcp-poc.iml" />
     </modules>
   </component>
 </project>
